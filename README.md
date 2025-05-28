@@ -2,9 +2,9 @@
 
 Meu nome é Caroline
 
-- Esou estudando na [Alura](https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilio esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
 ### Você entrar em contato comigo 📫
 
